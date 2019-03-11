@@ -87,7 +87,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="937" />
     <option name="y" value="45" />
     <option name="width" value="1054" />
@@ -165,12 +165,12 @@
       <workItem from="1552330736658" duration="403000" />
       <workItem from="1552332834749" duration="14000" />
       <workItem from="1552334259959" duration="348000" />
-      <workItem from="1552334653232" duration="372000" />
+      <workItem from="1552334653232" duration="453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18800000" />
+    <option name="totallyTimeSpent" value="18881000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,7 +182,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14119513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
