@@ -1,2 +1,2 @@
-<h1><strong>Grid template</strong> <br>First try!!</h1>
+<h1><strong>Grid template</strong> <br>Second try!!</h1>
 
